@@ -151,7 +151,7 @@
 									<input type="number" class="form-control" name="prod_cost" required>
 								</div>
 								<div class="form-group">
-									<label>Product Price</label>
+---									<label>Product Price</label>
 									<input type="number" class="form-control" name="prod_price" required>
 								</div>
 								<div class="form-group">
